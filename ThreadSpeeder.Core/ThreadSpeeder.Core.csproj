@@ -2,6 +2,21 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
+    <Authors>Gabriel Petrovick Oliveira dos Santos</Authors>
+    <Description>This library will speed up the processing of list.</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Copyright>Copyright © 2019 by Gabriel Petrovick Oliveira dos Santos</Copyright>
+    <PackageLicenseUrl></PackageLicenseUrl>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
   </PropertyGroup>
+  
+  <PropertyGroup>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+  </PropertyGroup>
+  <ItemGroup>
+	<None Include="LICENSE.txt" Pack="true" PackagePath=""/>
+  </ItemGroup>
+	  
+  
 
 </Project>
