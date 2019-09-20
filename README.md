@@ -5,8 +5,9 @@
 
 README.md is still under construction. Tests were made before publishing this library and they will be available here at this page soon.
 
-ThreadSpeeder.Core is an open-source, .NET Core platform API for commonly used programming patterns, such as Generic and ThreadPolling. It will speed up your processing list. 
-You might not be making the use it when a value of list depends on another value of that same list
+ThreadSpeeder.Core is an open-source, .NET Core platform API that commonly use programming patterns, such as Generic and ThreadPolling. 
+It will speed up your processing list, use this library instead of using a for/foreach.
+You might not be making the use it when a value of list depends on another value of that same list.
 
 ## Get Started
 
