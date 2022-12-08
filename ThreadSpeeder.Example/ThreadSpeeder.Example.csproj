@@ -7,7 +7,7 @@
 
   <ItemGroup>
     <PackageReference Include="br.edu.unipam.core.Thread.Processor" Version="1.0.0" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3-beta1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
     <PackageReference Include="System.Diagnostics.PerformanceCounter" Version="4.5.0" />
     <PackageReference Include="System.Management" Version="4.5.0" />
     <PackageReference Include="ThreadSpeeder.Core" Version="1.0.0" />
